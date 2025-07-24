@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
-import Github from "./Github";
+import Leetcode from "./Leetcode";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/tech_stacks.png";
@@ -45,7 +45,7 @@ function About() {
         </h1>
         <Toolstack />
 
-
+      <Leetcode/>
       </Container>
     </Container>
   );
