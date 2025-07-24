@@ -26,7 +26,7 @@ function Projects() {
 //              imgPath={chatify}
               isBlog={false}
               title="Destroy target (game)"
-              description="This project uses OpenCV in Python to identif yhand gestures to destroy virtual targets on the screen."
+              description="This project uses OpenCV in Python to identify hand gestures to destroy virtual targets on the screen."
               ghLink="https://github.com/anushree410/OpenCVProject"
             />
           </Col>
