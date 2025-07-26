@@ -7,7 +7,7 @@ import leetcodeBackupData from './leetcodeBackup';
 
 function Leetcode() {
 
-    const [datewiseProblems,setDatewiseProblems]=useState({})
+    const [datewiseProblems,setDatewiseProblems]=useState([])
     useEffect(()=>{
     console.log("ABOUT component loaded");
     const username = "rock_llama";
