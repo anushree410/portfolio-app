@@ -8,6 +8,7 @@ import laptopImg from "../../Assets/tech_stacks.png";
 import Toolstack from "./Toolstack";
 
 function About() {
+
   return (
     <Container fluid className="about-section">
       <Particle />

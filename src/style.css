@@ -741,3 +741,19 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
+
+.color-empty {
+  fill: #ebedf0;
+}
+.color-scale-1 {
+  fill: #a3d977;
+}
+.color-scale-2 {
+  fill: #7ec850;
+}
+.color-scale-3 {
+  fill: #5cb936;
+}
+.color-scale-4 {
+  fill: #389925;
+}
