@@ -11,10 +11,10 @@ import {
   DiJava,
 } from "react-icons/di";
 import {
-  SiRedis,
-  SiFirebase,
+  SiRedhatopenshift,
+  SiKubernetes,
   SiNextdotjs,
-  SiSolidity,
+  SiDjango,
   SiPostgresql,
 } from "react-icons/si";
 import { TbBrandGolang } from "react-icons/tb";
@@ -38,7 +38,7 @@ function Techstack() {
         <DiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiSolidity />
+        <SiDjango />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiMongodb />
@@ -50,10 +50,10 @@ function Techstack() {
         <DiGit />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiFirebase />
+        <SiKubernetes />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiRedis />
+        <SiRedhatopenshift />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPostgresql />
