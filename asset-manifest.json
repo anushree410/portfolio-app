@@ -1,21 +1,24 @@
 {
   "files": {
     "main.css": "/portfolio-app/static/css/main.2bdeb78b.css",
-    "main.js": "/portfolio-app/static/js/main.0739b83b.js",
+    "main.js": "/portfolio-app/static/js/main.a83edb2f.js",
     "static/js/453.5d79306b.chunk.js": "/portfolio-app/static/js/453.5d79306b.chunk.js",
+    "static/media/Destroy_Target.png": "/portfolio-app/static/media/Destroy_Target.35a1a1aadb599404d173.png",
     "static/media/tech_stacks.png": "/portfolio-app/static/media/tech_stacks.6488e2f3d77d7e80da60.png",
     "static/media/AnushreeDeota_Resume.pdf": "/portfolio-app/static/media/AnushreeDeota_Resume.6fa150404cb7c5b6b204.pdf",
     "static/media/avatar1.png": "/portfolio-app/static/media/avatar1.6e0a5819255ecc9f877b.png",
+    "static/media/img.png": "/portfolio-app/static/media/img.b68b65c832d2dc82f8a1.png",
     "static/media/home-bg.jpg": "/portfolio-app/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Brain_Tumour.png": "/portfolio-app/static/media/Brain_Tumour.37fcc53f03d26641c47e.png",
     "static/media/software_development.png": "/portfolio-app/static/media/software_development.b97261f973c44078ea44.png",
     "static/media/loading.svg": "/portfolio-app/static/media/loading.2af2871d75a07044086f.svg",
     "index.html": "/portfolio-app/index.html",
     "main.2bdeb78b.css.map": "/portfolio-app/static/css/main.2bdeb78b.css.map",
-    "main.0739b83b.js.map": "/portfolio-app/static/js/main.0739b83b.js.map",
+    "main.a83edb2f.js.map": "/portfolio-app/static/js/main.a83edb2f.js.map",
     "453.5d79306b.chunk.js.map": "/portfolio-app/static/js/453.5d79306b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2bdeb78b.css",
-    "static/js/main.0739b83b.js"
+    "static/js/main.a83edb2f.js"
   ]
 }
