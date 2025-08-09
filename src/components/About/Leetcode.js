@@ -18,28 +18,20 @@ function Leetcode() {
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        query: `
-          query userProblemsSolved($username: String!) {
-            matchedUser(username: $username) {
-              userCalendar {
-                submissionCalendar
-              }
-            }
-          }`,
-        variables: { username },
+        username: username
       }),
     })
       .then(res => res.json())
       .then(data => {
       console.log("FETCH SUCCESS")
-        const parsed = JSON.parse(data);
+        const parsed = data;
         console.log(parsed);
         setDatewiseProblems(parsed);
       })
       .catch((error) => {
               console.error("API failed, using backup", error);
               setDatewiseProblems(leetcodeBackupData);
-            });;
+            });
     }, []);
 return (
     <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
