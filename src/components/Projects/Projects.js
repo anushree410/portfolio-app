@@ -23,7 +23,7 @@ function Projects() {
                                 imgPath={backend}
                                 isBlog={false}
                                 title="Chatbot App"
-                                description="This Project is a session based chatbot which uses Django and Swagger-UI for RESTful APIs deployed using Render and a persistent PostgreSQL database instance"
+                                description="This Project is a session based chatbot which uses Django and Swagger-UI for RESTful APIs and React UI with Tailwind CSS deployed using Render and a persistent PostgreSQL database instance"
                                 ghLink="https://github.com/anushree410/django_project"
                                 demoLink="https://django-project-ekwx.onrender.com/"
                               />
