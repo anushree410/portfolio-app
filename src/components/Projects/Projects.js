@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import tumour from "../../Assets/Brain_Tumour.png";
 import game from "../../Assets/Destroy_Target.png";
-import backend from "../../Assets/img.png";
+import backend from "../../Assets/chatbot.png";
 function Projects() {
 
   return (
@@ -23,7 +23,7 @@ function Projects() {
                                 imgPath={backend}
                                 isBlog={false}
                                 title="Chatbot App"
-                                description="This Project is a session based chatbot which uses Django and Swagger-UI for RESTful APIs deployed using Render"
+                                description="This Project is a session based chatbot which uses Django and Swagger-UI for RESTful APIs deployed using Render and a persistent PostgreSQL database instance"
                                 ghLink="https://github.com/anushree410/django_project"
                                 demoLink="https://django-project-ekwx.onrender.com/"
                               />
