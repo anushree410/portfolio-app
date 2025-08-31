@@ -22,10 +22,10 @@ function Projects() {
                               <ProjectCard
                                 imgPath={backend}
                                 isBlog={false}
-                                title="Backend Django Application"
-                                description="This Project uses Django and Swagger-UI for RESTful APIs deployed using Render"
+                                title="Chatbot App"
+                                description="This Project is a session based chatbot which uses Django and Swagger-UI for RESTful APIs deployed using Render"
                                 ghLink="https://github.com/anushree410/django_project"
-                                demoLink="https://django-project-ekwx.onrender.com/docs/"
+                                demoLink="https://django-project-ekwx.onrender.com/"
                               />
                 </Col>
 
