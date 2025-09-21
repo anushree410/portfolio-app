@@ -13,7 +13,6 @@ import {
 import {
   SiRedhatopenshift,
   SiKubernetes,
-  SiNextdotjs,
   SiDjango,
   SiPostgresql,
 } from "react-icons/si";

@@ -1,10 +1,10 @@
 import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
+import { Container } from "react-bootstrap";
 import Particle from "../Particle";
 import Leetcode from "./Leetcode";
 import Techstack from "./Techstack";
-import Aboutcard from "./AboutCard";
-import laptopImg from "../../Assets/tech_stacks.png";
+//import Aboutcard from "./AboutCard";
+//import laptopImg from "../../Assets/tech_stacks.png";
 import Toolstack from "./Toolstack";
 
 function About() {
