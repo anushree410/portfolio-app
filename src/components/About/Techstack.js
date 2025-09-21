@@ -23,6 +23,9 @@ function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
+        <DiJava />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <CgCPlusPlus />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
@@ -44,9 +47,6 @@ function Techstack() {
         <DiMongodb />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiNextdotjs />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <DiGit />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
@@ -61,9 +61,7 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiPython />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiJava />
-      </Col>
+
     </Row>
   );
 }
