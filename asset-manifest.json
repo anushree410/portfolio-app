@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio-app/static/css/main.2bdeb78b.css",
-    "main.js": "/portfolio-app/static/js/main.c34d930a.js",
+    "main.js": "/portfolio-app/static/js/main.36533516.js",
     "static/js/453.5d79306b.chunk.js": "/portfolio-app/static/js/453.5d79306b.chunk.js",
     "static/media/Destroy_Target.png": "/portfolio-app/static/media/Destroy_Target.35a1a1aadb599404d173.png",
-    "static/media/AnushreeDeota_Resume_28_09_2025.pdf": "/portfolio-app/static/media/AnushreeDeota_Resume_28_09_2025.6fa0c28a6562b8a56d1e.pdf",
+    "static/media/AnushreeDeota_Resume_30_09_2025.pdf": "/portfolio-app/static/media/AnushreeDeota_Resume_30_09_2025.eccd67da9144356a1e16.pdf",
     "static/media/avatar1.png": "/portfolio-app/static/media/avatar1.6e0a5819255ecc9f877b.png",
     "static/media/chatbot.png": "/portfolio-app/static/media/chatbot.e5712ae88ec32bd8f13b.png",
     "static/media/home-bg.jpg": "/portfolio-app/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
@@ -13,11 +13,11 @@
     "static/media/loading.svg": "/portfolio-app/static/media/loading.2af2871d75a07044086f.svg",
     "index.html": "/portfolio-app/index.html",
     "main.2bdeb78b.css.map": "/portfolio-app/static/css/main.2bdeb78b.css.map",
-    "main.c34d930a.js.map": "/portfolio-app/static/js/main.c34d930a.js.map",
+    "main.36533516.js.map": "/portfolio-app/static/js/main.36533516.js.map",
     "453.5d79306b.chunk.js.map": "/portfolio-app/static/js/453.5d79306b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2bdeb78b.css",
-    "static/js/main.c34d930a.js"
+    "static/js/main.36533516.js"
   ]
 }
